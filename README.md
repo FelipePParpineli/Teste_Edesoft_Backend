@@ -21,7 +21,7 @@ Estou ansioso para trabalhar neste time.
 
 ## 📢 Lembrem-se
 
-* Python é minha linguagem de programação predileta, passo meus dias constantemente buscando aperfeiçoar minhas skills e aprendendendo novas formas de ajudar as pessoas através da tecnologia.
+* Python é minha linguagem de programação predileta, passo meus dias buscando constantemente aperfeiçoar minhas skills e aprender novas formas de ajudar as pessoas através da tecnologia.
 
 ---
 ⌨️ Valeu time, abraços!
